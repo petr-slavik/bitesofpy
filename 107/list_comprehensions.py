@@ -5,3 +5,5 @@ def filter_positive_even_numbers(numbers):
        are both positive and even (divisible by 2), try to use a
        list comprehension"""
    return [x for x in numbers if x > 0 and not x % 2]
+
+print(filter_positive_even_numbers(numbers))
