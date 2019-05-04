@@ -1,5 +1,4 @@
 [
-  "107/test_list_comprehensions.py::test_filter_positive_and_negatives",
-  "107/test_list_comprehensions.py::test_only_positives",
-  "107/test_list_comprehensions.py::test_filter_zero_and_negatives"
+  "bitesofpy/108/test_belts.py::test_get_total_points_given_belts",
+  "bitesofpy/108/test_belts.py::test_get_total_points_more_belts"
 ]

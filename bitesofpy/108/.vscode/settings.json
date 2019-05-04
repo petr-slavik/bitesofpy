@@ -1,7 +1,10 @@
 {
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": true,
     "python.pythonPath": "C:\\Users\\petrs\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "python.testing.pyTestArgs": [
-        "bitesofpy"
+        "."
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
